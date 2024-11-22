@@ -33,17 +33,6 @@ Outside of work and studies, I enjoy traveling, photography, and connecting with
 
 [![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jiayimitt&theme=gotham&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## My Repositories
-
-Here are some of my GitHub repositories:
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jiayimitt&repo=alarm-clock&theme=radical)](https://github.com/jiayimitt/alarm-clock)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jiayimitt&repo=typegame&theme=radical)](https://github.com/jiayimitt/typegame)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jiayimitt&repo=fakebook&theme=radical)](https://github.com/jiayimitt/fakebook)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jiayimitt&repo=shape-factory&theme=radical)](https://github.com/jiayimitt/shape-factory)
 
 ## Connect with Me
 
