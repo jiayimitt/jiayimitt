@@ -4,11 +4,11 @@
 
 ## About Me
 
-Hello! My name is Jiayi Nie, you can call me Jay. I am currently pursuing a software development program at Manitoba Institute of Trades and Technology (MITT) in Winnipeg, Canada. I am passionate about web development and am honing my skills in HTML, CSS, and JavaScript to build engaging and user-friendly web applications.
+I’m a full-stack developer with a strong engineering background and over a decade of experience in automotive R&D. After leading calibration and testing projects at General Motors and Chery Automobile, I transitioned into software development, combining analytical problem-solving with modern programming skills.
 
-Previously, I worked for over a decade in the automotive industry as an Engine Calibration Specialist, where I gained extensive experience in automotive systems, project management, and data analysis. My technical background is rooted in my degrees in Mechanical and Electronic Engineering, and I am excited to apply this expertise in my journey into software development.
+Currently trained in technologies such as C#, ASP.NET MVC, JavaScript, React, SQL, and Entity Framework, I build scalable, efficient web applications with a focus on quality, collaboration, and real-world usability. My international work experience enables me to communicate effectively across diverse teams and deliver results in high-pressure environments.
 
-Outside of work and studies, I enjoy traveling, photography, and connecting with people from diverse cultures.
+Driven by curiosity and precision, I bring a systems-thinking mindset and a passion for continuous learning into every project I take on.
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=jiayimitt&color=blue)
 
