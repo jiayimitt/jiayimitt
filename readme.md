@@ -4,7 +4,7 @@
 
 ## About Me
 
-I’m a full-stack developer with a strong engineering background and over a decade of experience in automotive R&D. After leading calibration and testing projects at General Motors and Chery Automobile, I transitioned into software development, combining analytical problem-solving with modern programming skills.
+I’m a full-stack developer with a strong engineering background and over a decade of experience in automotive R&D. After leading calibration and testing projects at General Motors China R&D center and Chery Automobile, I transitioned into software development, combining analytical problem-solving with modern programming skills.
 
 Currently trained in technologies such as C#, ASP.NET MVC, JavaScript, React, SQL, and Entity Framework, I build scalable, efficient web applications with a focus on quality, collaboration, and real-world usability. My international work experience enables me to communicate effectively across diverse teams and deliver results in high-pressure environments.
 
